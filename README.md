@@ -1,12 +1,34 @@
-## Welcome to GitHub Pages
+# Didier Iradukunda
 
-You can use the [editor on GitHub](https://github.com/didier-i/didier-i.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hereis my photo :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```markdown
+Didier Iradukunda
 
-### Markdown
+# Machine Learning Engineer
+## Data Science
+### AI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Help peole
+- Success
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
+### Didier Iradukunda
+
+I'm Didier Iradukunda. A 2022 graduate from Carnegie Mellon University, Msc. Electrical & Computer Engineering. I majored in Applied Machine Learning and have more interests in Deep Learning and Computer Vision Applications.
+
+I am currently working as A Graduate Teaching Assistant at Carnegie Mellon University. I have practical experience in Data exploration; Visualization, Big Data, Building Machine Learning Models and Communicating insights from the Data. Have over two years of experience in Telecommunication and Energy Systems. 
+
+Broadly, I aspire to leverage data and assist in improving people’s lives through the increased access to sustainable and modern solutions.
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +50,12 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Career Aspirations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/didier-i/didier-i.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I'm a Machine Learning Engineer, interested in Deep Learning and Computer Vision Applications.
+Writer | writes about Machine Learning on [Medium](https://medium.com/@didier-i)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [LindedIn](https://www.linkedin.com/in/didier-i/)
+* [Twitter](https://twitter.com/didier_ira)
