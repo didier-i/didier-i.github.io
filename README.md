@@ -1,6 +1,6 @@
 # Didier Iradukunda
 
-Hereis my photo :)
+Here is my photo :)
 
 ```markdown
 Didier Iradukunda
@@ -20,7 +20,7 @@ Didier Iradukunda
 
 ### Didier Iradukunda
 
-I'm Didier Iradukunda. A 2022 graduate from Carnegie Mellon University, Msc. Electrical & Computer Engineering. I majored in Applied Machine Learning and have more interests in Deep Learning and Computer Vision Applications.
+I'm Didier Iradukunda. A 2022 graduate from Carnegie Mellon University, Msc. Electrical & Computer Engineering. I majored in Applied Machine Learning and have interests in Deep Learning and Computer Vision Applications.
 
 I am currently working as A Graduate Teaching Assistant at Carnegie Mellon University. I have practical experience in Data exploration; Visualization, Big Data, Building Machine Learning Models and Communicating insights from the Data. Have over two years of experience in Telecommunication and Energy Systems. 
 
