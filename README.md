@@ -1,13 +1,13 @@
-# Didier Iradukunda
+# Professional Profile | Didier Iradukunda
 
 ![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
 
-<center> <h1> Jean de Dieu Nyandwi </h1>
-<p>I like research and engineering!</p>
+<h1> Didier Iradukunda </h1>
+<p>Machine Learning Engineer | Data Science | AI</p>
 
-<a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
-<a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
-<a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
+<a href="https://github.com/didier-i" target="_blank"> Github </a> | 
+<a href="https://www.linkedin.com/in/didier-i" target="_blank"> Linkedin </a> | 
+<a href="mailto:didier.iradukunda01@gmail.com" target="_blank"> Email </a>
 </center>
 
 ### Career
