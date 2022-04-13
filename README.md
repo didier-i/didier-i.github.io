@@ -2,10 +2,13 @@
 
 ![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
 
-Machine Learning Engineer | Data Science
+<center> <h1> Jean de Dieu Nyandwi </h1>
+<p>I like research and engineering!</p>
 
-[GitHub](https://github.com/didier-i/didier-i) | [LindedIn](https://www.linkedin.com/in/didier-i/) | [Email](mailto:didier.iradukunda01@gmail.com?subject=[GitHub])
-
+<a href="https://github.com/Nyandwi" target="_blank"> Github </a> | 
+<a href="https://twitter.com/Jeande_d" target="_blank"> Twitter </a> | 
+<a href="mailto:johnjw7084@gmail.com" target="_blank"> Email </a>
+</center>
 
 ### Career
 
