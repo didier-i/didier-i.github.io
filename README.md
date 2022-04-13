@@ -2,9 +2,9 @@
 
 ![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
 
-Machine Learning Engineer
+Machine Learning Engineer | Data Science | AI
 
-[LindedIn](https://www.linkedin.com/in/didier-i/) | [GitHub](https://github.com/didier-i/didier-i) | [Email](mailto:didier.iradukunda01@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[GitHub](https://github.com/didier-i/didier-i) | [LindedIn](https://www.linkedin.com/in/didier-i/) | [Email](mailto:didier.iradukunda01@gmail.com?subject=[GitHub])
 
 
 ### Career
@@ -22,7 +22,6 @@ I am also a Writer and I writes about Technology, Machine Learning on [Medium](h
 ### Contact
 You can find me on:
 
-* [LindedIn](https://www.linkedin.com/in/didier-i/)
 * [GitHub](https://github.com/didier-i/didier-i)
+* [LindedIn](https://www.linkedin.com/in/didier-i/)
 * [Twitter](https://twitter.com/didier_ira)
-
