@@ -1,6 +1,6 @@
 # Professional Profile
 
-![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
+![Didier_Profile_New_CV](https://user-images.githubusercontent.com/74200731/163186346-5ca03317-bc24-4396-84e1-e79e6e59a901.png)
 
 <h1> Didier Iradukunda </h1>
 <p>Machine Learning Engineer | Data Science | AI</p>
