@@ -1,12 +1,12 @@
-# Professional Profile | Didier Iradukunda
+# Professional Profile
 
 ![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
 
 <h1> Didier Iradukunda </h1>
 <p>Machine Learning Engineer | Data Science | AI</p>
 
-<a href="https://github.com/didier-i" target="_blank"> Github </a> | 
-<a href="https://www.linkedin.com/in/didier-i" target="_blank"> Linkedin </a> | 
+<a href="https://github.com/didier-i" target="_blank"> GitHub </a> | 
+<a href="https://www.linkedin.com/in/didier-i" target="_blank"> LinkedIn </a> | 
 <a href="mailto:didier.iradukunda01@gmail.com" target="_blank"> Email </a>
 
 ### Career
@@ -19,7 +19,7 @@ Broadly, I aspire to leverage data and assist in improving people’s lives thro
 
 ### Blog
 
-I am also a Writer and I writes about Technology, Machine Learning on [Medium](https://medium.com/@didier-i)
+I am also a Writer and writes about Technology, Machine Learning on: [Medium](https://medium.com/@didier-i).
 
 ### Contact
 You can find me on:
