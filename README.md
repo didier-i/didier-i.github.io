@@ -4,7 +4,7 @@
 
 Machine Learning Engineer
 
-[LindedIn](https://www.linkedin.com/in/didier-i/) | [GitHub](https://github.com/didier-i/didier-i) | [Email](didier.iradukunda01@gmail.com)
+[LindedIn](https://www.linkedin.com/in/didier-i/) | [GitHub](https://github.com/didier-i/didier-i) | [Email](mailto:didier.iradukunda01@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 ### Career
