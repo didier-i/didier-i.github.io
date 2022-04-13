@@ -8,7 +8,6 @@
 <a href="https://github.com/didier-i" target="_blank"> Github </a> | 
 <a href="https://www.linkedin.com/in/didier-i" target="_blank"> Linkedin </a> | 
 <a href="mailto:didier.iradukunda01@gmail.com" target="_blank"> Email </a>
-</center>
 
 ### Career
 
