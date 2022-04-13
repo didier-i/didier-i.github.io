@@ -1,24 +1,11 @@
 # Didier Iradukunda
 
-Here is my photo :)
-
-```markdown
-Didier Iradukunda
-
-# Machine Learning Engineer
-## Data Science
-### AI
-
-- Help peole
-- Success
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
+Machine Learning Engineer
+[LindedIn](https://www.linkedin.com/in/didier-i/) | [GitHub](https://github.com/didier-i/didier-i) 
 
 
-### Didier Iradukunda
+### Career
 
 I'm Didier Iradukunda. A 2022 graduate from Carnegie Mellon University, Msc. Electrical & Computer Engineering. I majored in Applied Machine Learning and have interests in Deep Learning and Computer Vision Applications.
 
@@ -26,14 +13,13 @@ I am currently working as A Graduate Teaching Assistant at Carnegie Mellon Unive
 
 Broadly, I aspire to leverage data and assist in improving people’s lives through the increased access to sustainable and modern solutions.
 
-Find me on [GitHub](https://github.com/didier-i/didier-i)
+### Blog
 
-### Career Aspirations
+I am also a Writer and I writes about Technology, Machine Learning on [Medium](https://medium.com/@didier-i)
 
-I'm a Machine Learning Engineer, interested in Deep Learning and Computer Vision Applications.
-Writer | writes about Machine Learning on [Medium](https://medium.com/@didier-i)
-
-### Support or Contact
+### Contact
+You can find me on:
 
 * [LindedIn](https://www.linkedin.com/in/didier-i/)
 * [Twitter](https://twitter.com/didier_ira)
+* [GitHub](https://github.com/didier-i/didier-i)
