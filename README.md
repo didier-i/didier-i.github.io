@@ -2,7 +2,7 @@
 
 ![Didier_Profile_CV](https://user-images.githubusercontent.com/74200731/163169257-e3086708-f7c7-4d92-bd46-3eb3f29ab26c.png)
 
-Machine Learning Engineer | Data Science | AI
+Machine Learning Engineer|Data Science|AI
 
 [GitHub](https://github.com/didier-i/didier-i) | [LindedIn](https://www.linkedin.com/in/didier-i/) | [Email](mailto:didier.iradukunda01@gmail.com?subject=[GitHub])
 
@@ -15,7 +15,7 @@ I am currently working as A Graduate Teaching Assistant at Carnegie Mellon Unive
 
 Broadly, I aspire to leverage data and assist in improving people’s lives through the increased access to sustainable and modern solutions.
 
-### Article
+### Articles
 
 I am also a Writer and I writes about Technology, Machine Learning on [Medium](https://medium.com/@didier-i)
 
