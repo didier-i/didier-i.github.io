@@ -21,6 +21,8 @@ Broadly, I aspire to leverage data and assist in improving people’s lives thro
 
 I am also a Writer and writes about Technology, Machine Learning on: [Medium](https://medium.com/@didier-i).
 
+Recent blog: [How to use Git for the first time; Commit, Push, Clone](https://medium.com/@didier-i/how-to-use-git-for-the-first-time-commit-push-clone-48c30850b799)
+
 ### Contact
 You can find me on:
 
