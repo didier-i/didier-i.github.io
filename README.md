@@ -26,6 +26,6 @@ Recent blog: [How to use Git for the first time; Commit, Push, Clone](https://me
 ### Contact
 You can find me on:
 
-* [GitHub](https://github.com/didier-i/didier-i)
+* [GitHub](https://github.com/didier-i)
 * [LindedIn](https://www.linkedin.com/in/didier-i/)
 * [Twitter](https://twitter.com/didier_ira)
